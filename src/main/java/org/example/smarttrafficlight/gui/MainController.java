@@ -42,9 +42,9 @@ public class MainController {
     @FXML
     public void initialize() {
         // *** IMPORTANT: Replace with your actual bot credentials and Chat ID ***
-        String botUsername = "jashtraffic2bot"; // e.g., MyTrafficSimBot
-        String botToken = "7979935037:AAHwb0ngwacJy7RcrON-dq-mL_F3NomlUjU"; // The token from BotFather
-        String chatId = "6314336691";         // The chat ID where messages should be sent
+        String botUsername = "j**********ot"; // e.g., MyTrafficSimBot
+        String botToken = "7***********************************************jU"; // The token from BotFather
+        String chatId = "6***********************1";         // The chat ID where messages should be sent
 
         if (botUsername.isEmpty() || botToken.isEmpty() || chatId.isEmpty()) {
             System.err.println("Telegram Bot credentials are missing!");
